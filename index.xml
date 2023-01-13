@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Chris Joseph Portfolio</title>
+    <link>https://chrisjohn83.github.io/</link>
+    <description>Recent content in Home on Chris Joseph Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Jan 2023 18:56:13 -0500</lastBuildDate><atom:link href="https://chrisjohn83.github.io/index.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Product documentation </title>
+      <link>https://chrisjohn83.github.io/projects/creations/productdocs/</link>
+      <pubDate>Fri, 13 Jan 2023 18:56:13 -0500</pubDate>
+      
+      <guid>https://chrisjohn83.github.io/projects/creations/productdocs/</guid>
+      <description>Context As Redocly&amp;rsquo;s Provides instructions and how to use the product features. </description>
+    </item>
+    
+
+    <item>
+      <title>SDK documentation</title>
+      <link>https://chrisjohn83.github.io/projects/creations/sdkdocs/</link>
+      <pubDate>Fri, 13 Jan 2023 18:56:13 -0500</pubDate>
+      
+      <guid>https://chrisjohn83.github.io/projects/creations/sdkdocs/</guid>
+      <description> </description>
+    </item>
+
+    
+  </channel>
+</rss>
